@@ -2,19 +2,18 @@
 
 # 객체변수 value가 100 이상의 값은 가질 수 없도록 제한하는 MaxLimitCalculator 클래스
 
-class MaxLimitCalculator:
+class Calculator:
     def __init__(self):
         self.value = 0
 
     def add(self, val):
         self.value += val
 
-class Limit(MaxLimitCalculator):
+class MaxLimitCalculator(Calculator):
     def add(self, val):
+        self.value += val
         if self.value > 100:
-            return 100
-        else:
-            return self.value
+            self.value = 100
 
 cal = MaxLimitCalculator()
 cal.add(50) # 50 더하기
