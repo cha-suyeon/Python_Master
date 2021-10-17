@@ -2,7 +2,7 @@
 # readlines 함수 사용하기
 # readline과 readlines
 
-f = open("C:/Users/chasu/OneDrive/바탕 화면/doit/새파일.txt", "r")
+f = open("C:/Users/chasu/OneDrive/바탕 화면/Python_Master/새파일.txt", "r")
 lines = f.readlines()
 for line in lines:
     print(line)

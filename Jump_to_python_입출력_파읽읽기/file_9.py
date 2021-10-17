@@ -3,7 +3,7 @@
 # 하지만 원래 있던 값을 유지하면서 단지 새로운 값만 추가해야 할 경우도 있습니다.
 # 이런 경우에는 파일을 추가 모드('a')로 열면 됩니다.
 
-f = open("C:/Users/chasu/OneDrive/바탕 화면/doit/새파일.txt", "a")
+f = open("C:/Users/chasu/OneDrive/바탕 화면/Python_Master/새파일.txt", "a")
 for i in range(11,20):
     data = "%d 번째 줄입니다. \n" % i
     f.write(data)
