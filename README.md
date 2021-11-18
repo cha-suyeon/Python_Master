@@ -11,7 +11,7 @@
 ### 자료
 
 | CHAPTER | TITLE  | 내용 | Code  |  개념정리 |
-| :--: | ----------- | :------: | :------: | :------------: |
+| :--: | ----------------------- | :-----------------------------: | :----------------------: | :-----------------------: |
 |  2   | 파이썬 프로그래밍의 기초, 자료형 | 숫자형, 문자열, 리스트, 튜플, 딕셔너리, 집합, 불 |[🔗](https://github.com/cha-suyeon/Python_Master/tree/main/Jump_to_python_2%EC%9E%A5) | [📔](https://velog.io/@cha-suyeon/%ED%8C%8C%EC%9D%B4%EC%8D%AC-%EC%9E%90%EB%A3%8C%ED%98%95-%EC%88%AB%EC%9E%90%ED%98%95-%EB%AC%B8%EC%9E%90%EC%97%B4-%EB%A6%AC%EC%8A%A4%ED%8A%B8-%ED%8A%9C%ED%94%8C) |
 |  3   |  프로그램의 구조를 쌓는다! 제어문 | if문, while문, for문, 연습문제 | [🔗](https://github.com/cha-suyeon/Python_Master/tree/main/Jump_to_python_3%EC%9E%A5) | [📔]() |
 |  4   | 프로그램의 입력과 출력은 어떻게 해야 할까? | 함수, 입력과 출력, 파일 읽고 쓰기, 연습문제 | [🔗](https://github.com/cha-suyeon/Python_Master/tree/main/Jump_to_python_4%EC%9E%A5) | [1️⃣](https://velog.io/@cha-suyeon/Python-%ED%95%A8%EC%88%98)[2️⃣](https://velog.io/@cha-suyeon/Python-%EC%82%AC%EC%9A%A9%EC%9E%90-%EC%9E%85%EB%A0%A5%EA%B3%BC-%EC%B6%9C%EB%A0%A5)[3️⃣](https://velog.io/@cha-suyeon/Python-%ED%8C%8C%EC%9D%BC-%EC%9D%BD%EA%B3%A0-%EC%93%B0%EA%B8%B0)[4️⃣](https://velog.io/@cha-suyeon/Python-%EC%A0%90%ED%94%84%ED%88%AC%ED%8C%8C%EC%9D%B4%EC%8D%AC-04%EC%9E%A5-%EC%97%B0%EC%8A%B5%EB%AC%B8%EC%A0%9C) |
