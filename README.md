@@ -10,12 +10,12 @@
 
 ### 자료
 
-| CHAPTER | TITLE  | 내용 | Code  |  개념정리 |
+| CH | TITLE | 내용 | Code | 개념정리 |
 | :--: | ----------------------- | :-----------------------------: | :----------------------: | :-----------------------: |
-|  2   | 파이썬 프로그래밍의 기초, 자료형 | 숫자형, 문자열, 리스트, 튜플, 딕셔너리, 집합, 불 |[🔗](https://github.com/cha-suyeon/Python_Master/tree/main/Jump_to_python_2%EC%9E%A5) | [📔](https://velog.io/@cha-suyeon/%ED%8C%8C%EC%9D%B4%EC%8D%AC-%EC%9E%90%EB%A3%8C%ED%98%95-%EC%88%AB%EC%9E%90%ED%98%95-%EB%AC%B8%EC%9E%90%EC%97%B4-%EB%A6%AC%EC%8A%A4%ED%8A%B8-%ED%8A%9C%ED%94%8C) |
-|  3   |  프로그램의 구조를 쌓는다! 제어문 | if문, while문, for문, 연습문제 | [🔗](https://github.com/cha-suyeon/Python_Master/tree/main/Jump_to_python_3%EC%9E%A5) |  |
-|  4   | 프로그램의 입력과 출력은 어떻게 해야 할까? | 함수, 입력과 출력, 파일 읽고 쓰기, 연습문제 | [🔗](https://github.com/cha-suyeon/Python_Master/tree/main/Jump_to_python_4%EC%9E%A5) | [📔](https://velog.io/@cha-suyeon/Python-%ED%95%A8%EC%88%98) |
+|  2   | 자료형 | 숫자형, 문자열, 리스트, 튜플, 딕셔너리, 집합, 불 |[🔗](https://github.com/cha-suyeon/Python_Master/tree/main/Jump_to_python_2%EC%9E%A5) | [📔](https://velog.io/@cha-suyeon/%ED%8C%8C%EC%9D%B4%EC%8D%AC-%EC%9E%90%EB%A3%8C%ED%98%95-%EC%88%AB%EC%9E%90%ED%98%95-%EB%AC%B8%EC%9E%90%EC%97%B4-%EB%A6%AC%EC%8A%A4%ED%8A%B8-%ED%8A%9C%ED%94%8C) |
+|  3   |  제어문 | if문, while문, for문, 연습문제 | [🔗](https://github.com/cha-suyeon/Python_Master/tree/main/Jump_to_python_3%EC%9E%A5) |  |
+|  4   | 프로그램의 입력과 출력 | 함수, 입력과 출력, 파일 읽고 쓰기, 연습문제 | [🔗](https://github.com/cha-suyeon/Python_Master/tree/main/Jump_to_python_4%EC%9E%A5) | [📔](https://velog.io/@cha-suyeon/Python-%ED%95%A8%EC%88%98) |
 |  5   | 파이썬 날개달기  | 클래스, 모듈, 패키지, 예외 처리, 내장 함수, 라이브러리, 연습문제 | [🔗](https://github.com/cha-suyeon/Python_Master/tree/main/Jump_to_python_5%EC%9E%A5) | [📔](https://velog.io/@cha-suyeon/Python-class) |
-|  6   | 파이썬 프로그래밍, 어떻게 시작해야 할까? | 6문제 | [🔗](https://github.com/cha-suyeon/Python_Master/tree/main/Jump_to_python_6%EC%9E%A5) | [📔](https://velog.io/@cha-suyeon/Python-6%EC%9E%A5-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D) |
+|  6   | 파이썬 프로그래밍 | 6문제 | [🔗](https://github.com/cha-suyeon/Python_Master/tree/main/Jump_to_python_6%EC%9E%A5) | [📔](https://velog.io/@cha-suyeon/Python-6%EC%9E%A5-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D) |
 |  7   | 정규표현식 | 메타문자, re모듈, 문자열 검색, match, 컴파일 옵션 | [🔗](https://github.com/cha-suyeon/Python_Master/tree/main/Jump_to_python_7%EC%9E%A5) | [📔](https://velog.io/@cha-suyeon/%EC%A0%95%EA%B7%9C-%ED%91%9C%ED%98%84%EC%8B%9D%EC%9D%B4%EB%9E%80-%EB%AC%B8%EC%9E%90-%ED%81%B4%EB%9E%98%EC%8A%A4-Dot.-%EB%B0%98%EB%B3%B5-%EB%B0%98%EB%B3%B5-%EB%B0%98%EB%B3%B5mn)|
 |  8   | 종합문제 | 20문제 | [🔗]() | [📔](https://velog.io/@cha-suyeon/Python-%EB%AC%B8%EC%9E%90%EC%97%B4-%EB%B0%94%EA%BE%B8%EA%B8%B0-%EC%A0%90%ED%94%84%ED%88%AC%ED%8C%8C%EC%9D%B4%EC%8D%AC-%EC%A2%85%ED%95%A9%EB%AC%B8%EC%A0%9C-1%EB%B2%88) |
