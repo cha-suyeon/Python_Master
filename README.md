@@ -20,6 +20,8 @@
 |  7   | 정규표현식 | 메타문자, re모듈, 문자열 검색, match, 컴파일 옵션 | [🔗](https://github.com/cha-suyeon/Python_Master/tree/main/Jump_to_python_7%EC%9E%A5) | [📔](https://velog.io/@cha-suyeon/%EC%A0%95%EA%B7%9C-%ED%91%9C%ED%98%84%EC%8B%9D%EC%9D%B4%EB%9E%80-%EB%AC%B8%EC%9E%90-%ED%81%B4%EB%9E%98%EC%8A%A4-Dot.-%EB%B0%98%EB%B3%B5-%EB%B0%98%EB%B3%B5-%EB%B0%98%EB%B3%B5mn)|
 |  8   | 종합문제 | 20문제 | [🔗](https://github.com/cha-suyeon/Python_Master/tree/main/mini_test) | [📔](https://velog.io/@cha-suyeon/Python-%EB%AC%B8%EC%9E%90%EC%97%B4-%EB%B0%94%EA%BE%B8%EA%B8%B0-%EC%A0%90%ED%94%84%ED%88%AC%ED%8C%8C%EC%9D%B4%EC%8D%AC-%EC%A2%85%ED%95%A9%EB%AC%B8%EC%A0%9C-1%EB%B2%88) |
 
+<br/>
+
 
 ## 2. Machine Learning with Python 
 
