@@ -19,3 +19,23 @@
 |  6   | 파이썬 프로그래밍 | 6문제 | [🔗](https://github.com/cha-suyeon/Python_Master/tree/main/Jump_to_python_6%EC%9E%A5) | [📔](https://velog.io/@cha-suyeon/Python-6%EC%9E%A5-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D) |
 |  7   | 정규표현식 | 메타문자, re모듈, 문자열 검색, match, 컴파일 옵션 | [🔗](https://github.com/cha-suyeon/Python_Master/tree/main/Jump_to_python_7%EC%9E%A5) | [📔](https://velog.io/@cha-suyeon/%EC%A0%95%EA%B7%9C-%ED%91%9C%ED%98%84%EC%8B%9D%EC%9D%B4%EB%9E%80-%EB%AC%B8%EC%9E%90-%ED%81%B4%EB%9E%98%EC%8A%A4-Dot.-%EB%B0%98%EB%B3%B5-%EB%B0%98%EB%B3%B5-%EB%B0%98%EB%B3%B5mn)|
 |  8   | 종합문제 | 20문제 | [🔗](https://github.com/cha-suyeon/Python_Master/tree/main/mini_test) | [📔](https://velog.io/@cha-suyeon/Python-%EB%AC%B8%EC%9E%90%EC%97%B4-%EB%B0%94%EA%BE%B8%EA%B8%B0-%EC%A0%90%ED%94%84%ED%88%AC%ED%8C%8C%EC%9D%B4%EC%8D%AC-%EC%A2%85%ED%95%A9%EB%AC%B8%EC%A0%9C-1%EB%B2%88) |
+
+
+## 2. Python Basic
+
+- 사용 교재: '파이썬으로 배우는 머신러닝의 교과서'
+- 출판사: 한빛미디어
+- 해당 교재를 사용하여 개념과 코드를 정리하였습니다.
+
+### 자료 정리
+
+| CH | TITLE | Code | 
+| :--: | ----------------------- | :-----------------------------: |
+|  2   | 파이썬 기본 | |[🔗]() | 
+|  3   | 그래프 그리기 | |[🔗]() | 
+|  4   | 머신러닝에 필요한 수학의 기본 | |[🔗]() | 
+|  5   | 지도 학습: 회귀 | |[🔗]() | 
+|  6   | 지도 학습: 분류 | |[🔗]() | 
+|  7   | 신경망 · 딥러닝 | |[🔗]() | 
+|  8   | 신경망 · 딥러닝의 응용(필기체 숫자 인식) |[🔗]() |
+|  9   | 비지도 학습 |[🔗]() 
