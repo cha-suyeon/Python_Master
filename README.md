@@ -21,7 +21,7 @@
 |  8   | 종합문제 | 20문제 | [🔗](https://github.com/cha-suyeon/Python_Master/tree/main/mini_test) | [📔](https://velog.io/@cha-suyeon/Python-%EB%AC%B8%EC%9E%90%EC%97%B4-%EB%B0%94%EA%BE%B8%EA%B8%B0-%EC%A0%90%ED%94%84%ED%88%AC%ED%8C%8C%EC%9D%B4%EC%8D%AC-%EC%A2%85%ED%95%A9%EB%AC%B8%EC%A0%9C-1%EB%B2%88) |
 
 
-## 2. Python Basic
+## 2. Machine Learning with Python 
 
 - 사용 교재: '파이썬으로 배우는 머신러닝의 교과서'
 - 출판사: 한빛미디어
